@@ -1,6 +1,3 @@
-# toys_ds_project
-Homework for my Data Science 100 course at UBC
+# Heart Disease DSCI Project
 
-project creation date: February 8th, 2024
-
-author: Angus Hardy-Francis
+authors: Angus Hardy-Francis, Audrey Nichols, Frowin Fock, Tyler Tombolini
